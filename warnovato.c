@@ -55,7 +55,7 @@ int main(){
     //PROCESSAMENTO DA OPÇÃO
 
     switch (opcao) {
-    case 1:// cadastro de livro
+    case 1:// cadastro de territorios
     printf("---Cadastro de territorios---\n\n");
 
         if(total <  MAX_TERRITORIOS){
